@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/cmake_install.cmake",
+		"C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component1/cmake_install.cmake",
+		"C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component2/cmake_install.cmake",
+		"C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/testing/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

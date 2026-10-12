@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libfuck_sheep.a CMakeFiles/fuck_sheep.dir/src/fuck_sheep.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libfuck_sheep.a

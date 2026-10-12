@@ -7,6 +7,8 @@ set(CMAKE_INSTALL_PREFIX "C:/msys64/ucrt64")
 include(GNUInstallDirs)
 
 add_subdirectory(component1)
+add_subdirectory(component2)
+
 add_subdirectory(testing)
 
 include(CMakePackageConfigHelpers)

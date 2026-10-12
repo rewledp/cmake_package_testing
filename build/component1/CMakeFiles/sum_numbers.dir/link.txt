@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libsum_numbers.a CMakeFiles/sum_numbers.dir/src/sum_numbers.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libsum_numbers.a
