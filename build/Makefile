@@ -161,19 +161,6 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named sum_numbers
-
-# Build rule for target.
-sum_numbers: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 sum_numbers
-.PHONY : sum_numbers
-
-# fast build rule for target.
-sum_numbers/fast:
-	$(MAKE) $(MAKESILENT) -f component1\CMakeFiles\sum_numbers.dir\build.make component1/CMakeFiles/sum_numbers.dir/build
-.PHONY : sum_numbers/fast
-
-#=============================================================================
 # Target rules for targets named fuck_sheep
 
 # Build rule for target.
@@ -185,6 +172,19 @@ fuck_sheep: cmake_check_build_system
 fuck_sheep/fast:
 	$(MAKE) $(MAKESILENT) -f component2\CMakeFiles\fuck_sheep.dir\build.make component2/CMakeFiles/fuck_sheep.dir/build
 .PHONY : fuck_sheep/fast
+
+#=============================================================================
+# Target rules for targets named sum_numbers
+
+# Build rule for target.
+sum_numbers: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 sum_numbers
+.PHONY : sum_numbers
+
+# fast build rule for target.
+sum_numbers/fast:
+	$(MAKE) $(MAKESILENT) -f component1\CMakeFiles\sum_numbers.dir\build.make component1/CMakeFiles/sum_numbers.dir/build
+.PHONY : sum_numbers/fast
 
 #=============================================================================
 # Target rules for targets named test

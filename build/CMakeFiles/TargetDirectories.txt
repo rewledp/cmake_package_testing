@@ -4,13 +4,6 @@ C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/CMakeFiles/lis
 C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/CMakeFiles/install.dir
 C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/CMakeFiles/install/local.dir
 C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/CMakeFiles/install/strip.dir
-C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component1/CMakeFiles/sum_numbers.dir
-C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component1/CMakeFiles/edit_cache.dir
-C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component1/CMakeFiles/rebuild_cache.dir
-C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component1/CMakeFiles/list_install_components.dir
-C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component1/CMakeFiles/install.dir
-C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component1/CMakeFiles/install/local.dir
-C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component1/CMakeFiles/install/strip.dir
 C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component2/CMakeFiles/fuck_sheep.dir
 C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component2/CMakeFiles/edit_cache.dir
 C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component2/CMakeFiles/rebuild_cache.dir
@@ -18,6 +11,13 @@ C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component2/CMa
 C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component2/CMakeFiles/install.dir
 C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component2/CMakeFiles/install/local.dir
 C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component2/CMakeFiles/install/strip.dir
+C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component1/CMakeFiles/sum_numbers.dir
+C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component1/CMakeFiles/edit_cache.dir
+C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component1/CMakeFiles/rebuild_cache.dir
+C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component1/CMakeFiles/list_install_components.dir
+C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component1/CMakeFiles/install.dir
+C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component1/CMakeFiles/install/local.dir
+C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component1/CMakeFiles/install/strip.dir
 C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/testing/CMakeFiles/test.dir
 C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/testing/CMakeFiles/edit_cache.dir
 C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/testing/CMakeFiles/rebuild_cache.dir

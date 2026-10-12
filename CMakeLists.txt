@@ -6,12 +6,29 @@ set(CMAKE_INSTALL_PREFIX "C:/msys64/ucrt64")
 
 include(GNUInstallDirs)
 
-add_subdirectory(component1)
+set(COMPONENT_SUM_NUMBERS "sum_numbers")
+set(COMPONENT_FUCK_SHEEP "fuck_sheep")
+
 add_subdirectory(component2)
+add_subdirectory(component1)
 
 add_subdirectory(testing)
 
 include(CMakePackageConfigHelpers)
+
+
+install(TARGETS ${COMPONENT_SUM_NUMBERS} ${COMPONENT_FUCK_SHEEP}
+	EXPORT targets_export RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR}
+	LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR}
+	ARCHIVE DESTINATION ${CMAKE_INSTALL_LIBDIR}
+)
+
+install(EXPORT targets_export
+	FILE ${PROJECT_NAME}_targets_export.cmake
+	NAMESPACE ${PROJECT_NAME}::
+	# DESTINATION "share/cmake/${PROJECT_NAME}"
+	DESTINATION "${CMAKE_INSTALL_LIBDIR}/cmake/${PROJECT_NAME}"
+)
 
 configure_package_config_file(
 	"Config.cmake.in" "${PROJECT_NAME}Config.cmake"

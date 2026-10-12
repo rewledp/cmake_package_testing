@@ -1,11 +1,9 @@
-C:/msys64/ucrt64/include/my_cmake_project/sum_numbers.h
-C:/msys64/ucrt64/lib/libsum_numbers.a
-C:/msys64/ucrt64/lib/cmake/my_cmake_project/sum_numbers_export.cmake
-C:/msys64/ucrt64/lib/cmake/my_cmake_project/sum_numbers_export-noconfig.cmake
 C:/msys64/ucrt64/include/my_cmake_project/fuck_sheep.h
-C:/msys64/ucrt64/lib/libfuck_sheep.a
-C:/msys64/ucrt64/lib/cmake/my_cmake_project/fuck_sheep_export.cmake
-C:/msys64/ucrt64/lib/cmake/my_cmake_project/fuck_sheep_export-noconfig.cmake
+C:/msys64/ucrt64/include/my_cmake_project/sum_numbers.h
 C:/msys64/ucrt64/bin/test.exe
+C:/msys64/ucrt64/lib/libsum_numbers.a
+C:/msys64/ucrt64/lib/libfuck_sheep.a
+C:/msys64/ucrt64/lib/cmake/my_cmake_project/my_cmake_project_targets_export.cmake
+C:/msys64/ucrt64/lib/cmake/my_cmake_project/my_cmake_project_targets_export-noconfig.cmake
 C:/msys64/ucrt64/lib/cmake/my_cmake_project/my_cmake_projectConfig.cmake
 C:/msys64/ucrt64/lib/cmake/my_cmake_project/my_cmake_projectConfigVersion.cmake

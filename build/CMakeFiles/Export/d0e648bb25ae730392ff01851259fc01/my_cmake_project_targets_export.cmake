@@ -19,7 +19,7 @@ set(CMAKE_IMPORT_FILE_VERSION 1)
 set(_cmake_targets_defined "")
 set(_cmake_targets_not_defined "")
 set(_cmake_expected_targets "")
-foreach(_cmake_expected_target IN ITEMS my_cmake_project::fuck_sheep)
+foreach(_cmake_expected_target IN ITEMS my_cmake_project::sum_numbers my_cmake_project::fuck_sheep)
   list(APPEND _cmake_expected_targets "${_cmake_expected_target}")
   if(TARGET "${_cmake_expected_target}")
     list(APPEND _cmake_targets_defined "${_cmake_expected_target}")
@@ -55,6 +55,14 @@ if(_IMPORT_PREFIX STREQUAL "/")
   set(_IMPORT_PREFIX "")
 endif()
 
+# Create imported target my_cmake_project::sum_numbers
+add_library(my_cmake_project::sum_numbers STATIC IMPORTED)
+
+set_target_properties(my_cmake_project::sum_numbers PROPERTIES
+  INTERFACE_COMPILE_FEATURES "cxx_std_20"
+  INTERFACE_INCLUDE_DIRECTORIES "${_IMPORT_PREFIX}/include"
+)
+
 # Create imported target my_cmake_project::fuck_sheep
 add_library(my_cmake_project::fuck_sheep STATIC IMPORTED)
 
@@ -64,7 +72,7 @@ set_target_properties(my_cmake_project::fuck_sheep PROPERTIES
 )
 
 # Load information for each installed configuration.
-file(GLOB _cmake_config_files "${CMAKE_CURRENT_LIST_DIR}/fuck_sheep_export-*.cmake")
+file(GLOB _cmake_config_files "${CMAKE_CURRENT_LIST_DIR}/my_cmake_project_targets_export-*.cmake")
 foreach(_cmake_config_file IN LISTS _cmake_config_files)
   include("${_cmake_config_file}")
 endforeach()

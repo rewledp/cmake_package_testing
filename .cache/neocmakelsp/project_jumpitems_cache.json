@@ -1,0 +1,1246 @@
+{
+  "date": "2026-10-12T17:47:35.821337600+02:00",
+  "data": {
+    "_GNUInstallDirs_INCLUDEDIR_DEFAULT": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 429,
+            "character": 4
+          },
+          "end": {
+            "line": 429,
+            "character": 38
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "versionTemplateFile": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
+        "range": {
+          "start": {
+            "line": 42,
+            "character": 6
+          },
+          "end": {
+            "line": 42,
+            "character": 25
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\WriteBasicConfigVersionFile.cmake",
+      "is_function": false
+    },
+    "arch": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 678,
+            "character": 8
+          },
+          "end": {
+            "line": 678,
+            "character": 12
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "conda_prefix": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 357,
+            "character": 8
+          },
+          "end": {
+            "line": 357,
+            "character": 20
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "_GNUInstallDirs_DATADIR_DEFAULT": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 580,
+            "character": 4
+          },
+          "end": {
+            "line": 580,
+            "character": 35
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "_GNUInstallDirs_LOCALEDIR_DEFAULT": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 581,
+            "character": 4
+          },
+          "end": {
+            "line": 581,
+            "character": 37
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "_GNUInstallDirs_special_absolute": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 381,
+            "character": 9
+          },
+          "end": {
+            "line": 381,
+            "character": 41
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake\n\nUsed for SYSCONFDIR, LOCALSTATEDIR and RUNSTATEDIR paths",
+      "is_function": true
+    },
+    "_GNUInstallDirs_SYSCONFDIR_DEFAULT": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 425,
+            "character": 4
+          },
+          "end": {
+            "line": 425,
+            "character": 38
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "GGAID_extra_args": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 641,
+            "character": 6
+          },
+          "end": {
+            "line": 641,
+            "character": 22
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "_single": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 616,
+            "character": 6
+          },
+          "end": {
+            "line": 616,
+            "character": 13
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "_GNUInstallDirs_RUNSTATEDIR_get_default": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 495,
+            "character": 9
+          },
+          "end": {
+            "line": 495,
+            "character": 48
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake\n\nDepends on current CMAKE_INSTALL_LOCALSTATEDIR value",
+      "is_function": true
+    },
+    "_else": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 591,
+            "character": 6
+          },
+          "end": {
+            "line": 591,
+            "character": 11
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "default": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 330,
+            "character": 6
+          },
+          "end": {
+            "line": 330,
+            "character": 13
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "installPrefix": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 468,
+            "character": 8
+          },
+          "end": {
+            "line": 468,
+            "character": 21
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "_config_file": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 594,
+            "character": 10
+          },
+          "end": {
+            "line": 594,
+            "character": 22
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "config_file": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 691,
+            "character": 8
+          },
+          "end": {
+            "line": 691,
+            "character": 19
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "COMPONENT_SUM_NUMBERS": {
+      "location": {
+        "uri": "file:///C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/component1/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 0,
+            "character": 4
+          },
+          "end": {
+            "line": 0,
+            "character": 25
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:\\Users\\perdo\\Downloads\\cpp_projects\\cmake_package_testing\\component1\\CMakeLists.txt",
+      "is_function": false
+    },
+    "_branch_code": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 644,
+            "character": 6
+          },
+          "end": {
+            "line": 644,
+            "character": 18
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "_GNUInstallDirs_LOCALSTATEDIR_DEFAULT": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 427,
+            "character": 4
+          },
+          "end": {
+            "line": 427,
+            "character": 41
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "_GNUInstallDirs_DOCDIR_DEFAULT": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 582,
+            "character": 4
+          },
+          "end": {
+            "line": 582,
+            "character": 34
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "__GNUInstallDirs_default_in_root": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 395,
+            "character": 9
+          },
+          "end": {
+            "line": 395,
+            "character": 41
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake\n\ni.e. SYSCONFDIR and LOCALSTATEDIR",
+      "is_function": true
+    },
+    "_GNUInstallDirs_LIBEXECDIR_DEFAULT": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 424,
+            "character": 4
+          },
+          "end": {
+            "line": 424,
+            "character": 38
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "_GNUInstallDirs_cache_convert_to_path": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 266,
+            "character": 9
+          },
+          "end": {
+            "line": 266,
+            "character": 46
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": true
+    },
+    "options": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 447,
+            "character": 6
+          },
+          "end": {
+            "line": 447,
+            "character": 13
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "_indent": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 710,
+            "character": 8
+          },
+          "end": {
+            "line": 710,
+            "character": 15
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "${out_var}": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 496,
+            "character": 6
+          },
+          "end": {
+            "line": 496,
+            "character": 16
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "_GNUInstallDirs_RUNSTATEDIR_DEFAULT": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 583,
+            "character": 4
+          },
+          "end": {
+            "line": 583,
+            "character": 39
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "oneValueArgs": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 448,
+            "character": 6
+          },
+          "end": {
+            "line": 448,
+            "character": 18
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "${var}": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 672,
+            "character": 12
+          },
+          "end": {
+            "line": 672,
+            "character": 18
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "_GNUInstallDirs_MANDIR_DEFAULT": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 575,
+            "character": 6
+          },
+          "end": {
+            "line": 575,
+            "character": 36
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "_GNUInstallDirs_SBINDIR_DEFAULT": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 423,
+            "character": 4
+          },
+          "end": {
+            "line": 423,
+            "character": 35
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "_GNUInstallDirs_cache_path": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 277,
+            "character": 9
+          },
+          "end": {
+            "line": 277,
+            "character": 35
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake\n\nCreate a cache variable with default for a path.",
+      "is_function": true
+    },
+    "generate_apple_architecture_selection_file": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 614,
+            "character": 9
+          },
+          "end": {
+            "line": 614,
+            "character": 51
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": true
+    },
+    "_config_file_options": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 553,
+            "character": 6
+          },
+          "end": {
+            "line": 553,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "_GNUInstallDirs_SHAREDSTATEDIR_DEFAULT": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 426,
+            "character": 4
+          },
+          "end": {
+            "line": 426,
+            "character": 42
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "cmake_install_var": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 329,
+            "character": 6
+          },
+          "end": {
+            "line": 329,
+            "character": 23
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "CMAKE_INSTALL_PREFIX": {
+      "location": {
+        "uri": "file:///C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 4
+          },
+          "end": {
+            "line": 3,
+            "character": 24
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:\\Users\\perdo\\Downloads\\cpp_projects\\cmake_package_testing\\CMakeLists.txt",
+      "is_function": false
+    },
+    "_branch_${_opt}": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 602,
+            "character": 10
+          },
+          "end": {
+            "line": 602,
+            "character": 25
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "GGAID_dir": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 647,
+            "character": 8
+          },
+          "end": {
+            "line": 647,
+            "character": 17
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake\n\nHistorical behavior: use ${dir} from caller's scope",
+      "is_function": false
+    },
+    "COMPONENT_FUCK_SHEEPCK_SHEEPM_NUMBERS": {
+      "location": {
+        "uri": "file:///C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/component1/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 0,
+            "character": 4
+          },
+          "end": {
+            "line": 0,
+            "character": 41
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:\\Users\\perdo\\Downloads\\cpp_projects\\cmake_package_testing\\component1\\CMakeLists.txt",
+      "is_function": false
+    },
+    "LIBRARY_NAME": {
+      "location": {
+        "uri": "file:///C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/component1/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 0,
+            "character": 4
+          },
+          "end": {
+            "line": 0,
+            "character": 16
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:\\Users\\perdo\\Downloads\\cpp_projects\\cmake_package_testing\\component1\\CMakeLists.txt",
+      "is_function": false
+    },
+    "absInstallDir": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 476,
+            "character": 8
+          },
+          "end": {
+            "line": 476,
+            "character": 21
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "_options": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 615,
+            "character": 6
+          },
+          "end": {
+            "line": 615,
+            "character": 14
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "WRITE_BASIC_PACKAGE_VERSION_FILE": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 442,
+            "character": 6
+          },
+          "end": {
+            "line": 442,
+            "character": 38
+          }
+        }
+      },
+      "document_info": "defined macro\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": true
+    },
+    "_branch_INIT": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 588,
+            "character": 8
+          },
+          "end": {
+            "line": 588,
+            "character": 20
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "_GNUInstallDirs_DATAROOTDIR_DEFAULT": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 431,
+            "character": 4
+          },
+          "end": {
+            "line": 431,
+            "character": 39
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "PACKAGE_INIT": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 496,
+            "character": 6
+          },
+          "end": {
+            "line": 496,
+            "character": 18
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "full_description": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 318,
+            "character": 6
+          },
+          "end": {
+            "line": 318,
+            "character": 22
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake\n\nNormal flow",
+      "is_function": false
+    },
+    "_compatibilityTemplate": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
+        "range": {
+          "start": {
+            "line": 39,
+            "character": 8
+          },
+          "end": {
+            "line": 39,
+            "character": 30
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\WriteBasicConfigVersionFile.cmake",
+      "is_function": false
+    },
+    "_GNUInstallDirs_cache_path_fallback": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 328,
+            "character": 9
+          },
+          "end": {
+            "line": 328,
+            "character": 44
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake\n\nDATAROOTDIR.",
+      "is_function": true
+    },
+    "_GNUInstallDirs_LIBDIR_get_default": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 443,
+            "character": 9
+          },
+          "end": {
+            "line": 443,
+            "character": 43
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": true
+    },
+    "${absvar}": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 679,
+            "character": 8
+          },
+          "end": {
+            "line": 679,
+            "character": 17
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "${cmake_install_var}": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 339,
+            "character": 8
+          },
+          "end": {
+            "line": 339,
+            "character": 28
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 617,
+            "character": 4
+          },
+          "end": {
+            "line": 617,
+            "character": 45
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake\n\nSave for next run",
+      "is_function": false
+    },
+    "_GNUInstallDirs_INFODIR_DEFAULT": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 565,
+            "character": 6
+          },
+          "end": {
+            "line": 565,
+            "character": 37
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "generate_apple_platform_selection_file": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 552,
+            "character": 9
+          },
+          "end": {
+            "line": 552,
+            "character": 47
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": true
+    },
+    "CVF_VERSION": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
+        "range": {
+          "start": {
+            "line": 51,
+            "character": 10
+          },
+          "end": {
+            "line": 51,
+            "character": 21
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\WriteBasicConfigVersionFile.cmake",
+      "is_function": false
+    },
+    "_multi": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 622,
+            "character": 6
+          },
+          "end": {
+            "line": 622,
+            "character": 12
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "CVF_ARCH_INDEPENDENT_CHECK": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
+        "range": {
+          "start": {
+            "line": 56,
+            "character": 8
+          },
+          "end": {
+            "line": 56,
+            "character": 34
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\WriteBasicConfigVersionFile.cmake",
+      "is_function": false
+    },
+    "maybe_else": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 699,
+            "character": 8
+          },
+          "end": {
+            "line": 699,
+            "character": 18
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "multiValueArgs": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 449,
+            "character": 6
+          },
+          "end": {
+            "line": 449,
+            "character": 20
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "PACKAGE_${var}": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 489,
+            "character": 12
+          },
+          "end": {
+            "line": 489,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "_GNUInstallDirs_BINDIR_DEFAULT": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 422,
+            "character": 4
+          },
+          "end": {
+            "line": 422,
+            "character": 34
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake\n\nSet the standard default values before any special handling",
+      "is_function": false
+    },
+    "_GNUInstallDirs_LIBDIR_DEFAULT": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 428,
+            "character": 4
+          },
+          "end": {
+            "line": 428,
+            "character": 34
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "install_prefix_is_same": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 287,
+            "character": 10
+          },
+          "end": {
+            "line": 287,
+            "character": 32
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "_GNUInstallDirs_OLDINCLUDEDIR_DEFAULT": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 430,
+            "character": 4
+          },
+          "end": {
+            "line": 430,
+            "character": 41
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "_GNUInstallDirs_get_system_type_for_install": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 347,
+            "character": 9
+          },
+          "end": {
+            "line": 347,
+            "character": 52
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake\n\nCheck what system we are on for LIBDIR formatting",
+      "is_function": true
+    },
+    "CONFIGURE_PACKAGE_CONFIG_FILE": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 446,
+            "character": 9
+          },
+          "end": {
+            "line": 446,
+            "character": 38
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": true
+    },
+    "__GNUInstallDirs_default_in_usr": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 405,
+            "character": 9
+          },
+          "end": {
+            "line": 405,
+            "character": 40
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake\n\nCommon handler for defaults that should be in usr/<dir>",
+      "is_function": true
+    },
+    "return_vars": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 682,
+            "character": 6
+          },
+          "end": {
+            "line": 682,
+            "character": 17
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": false
+    },
+    "maybe_INSTALL_PREFIX": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+        "range": {
+          "start": {
+            "line": 635,
+            "character": 8
+          },
+          "end": {
+            "line": 635,
+            "character": 28
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\CMakePackageConfigHelpers.cmake",
+      "is_function": false
+    },
+    "WRITE_BASIC_CONFIG_VERSION_FILE": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
+        "range": {
+          "start": {
+            "line": 25,
+            "character": 9
+          },
+          "end": {
+            "line": 25,
+            "character": 40
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\WriteBasicConfigVersionFile.cmake",
+      "is_function": true
+    },
+    "GNUInstallDirs_get_absolute_install_dir": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/share/cmake/Modules/GNUInstallDirs.cmake",
+        "range": {
+          "start": {
+            "line": 640,
+            "character": 9
+          },
+          "end": {
+            "line": 640,
+            "character": 48
+          }
+        }
+      },
+      "document_info": "defined function\nfrom: C:/msys64\\ucrt64\\share\\cmake\\Modules\\GNUInstallDirs.cmake",
+      "is_function": true
+    }
+  }
+}

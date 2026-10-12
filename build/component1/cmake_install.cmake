@@ -41,33 +41,6 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/my_cmake_project" TYPE DIRECTORY FILES "C:/Users/perdo/downloads/cpp_projects/cmake_package_testing/component1/include/")
 endif()
 
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component1/libsum_numbers.a")
-endif()
-
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/my_cmake_project/sum_numbers_export.cmake")
-    file(DIFFERENT _cmake_export_file_changed FILES
-         "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/my_cmake_project/sum_numbers_export.cmake"
-         "C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component1/CMakeFiles/Export/d0e648bb25ae730392ff01851259fc01/sum_numbers_export.cmake")
-    if(_cmake_export_file_changed)
-      file(GLOB _cmake_old_config_files "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/my_cmake_project/sum_numbers_export-*.cmake")
-      if(_cmake_old_config_files)
-        string(REPLACE ";" ", " _cmake_old_config_files_text "${_cmake_old_config_files}")
-        message(STATUS "Old export file \"$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/my_cmake_project/sum_numbers_export.cmake\" will be replaced.  Removing files [${_cmake_old_config_files_text}].")
-        unset(_cmake_old_config_files_text)
-        file(REMOVE ${_cmake_old_config_files})
-      endif()
-      unset(_cmake_old_config_files)
-    endif()
-    unset(_cmake_export_file_changed)
-  endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/my_cmake_project" TYPE FILE FILES "C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component1/CMakeFiles/Export/d0e648bb25ae730392ff01851259fc01/sum_numbers_export.cmake")
-  if(CMAKE_INSTALL_CONFIG_NAME MATCHES "^()$")
-    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/my_cmake_project" TYPE FILE FILES "C:/Users/perdo/Downloads/cpp_projects/cmake_package_testing/build/component1/CMakeFiles/Export/d0e648bb25ae730392ff01851259fc01/sum_numbers_export-noconfig.cmake")
-  endif()
-endif()
-
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
